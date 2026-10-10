@@ -129,4 +129,4 @@ Windows 10/11 أو macOS 12+ بذاكرة 4 GB — راجع المتطلبات �
 
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
-*crisp-ridge-684 · آخر تحديث 2026-10-09 · مشترك بموجب ترخيص MIT*
+*crisp-ridge-684 · آخر تحديث 2026-10-10 · مشترك بموجب ترخيص MIT*
